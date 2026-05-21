@@ -5,7 +5,7 @@ document.addEventListener("keydown", (event) => {
 
 console.log(event.key);
 
-if(event.key = "t"){
+if(event.key == "t"){
 document.getElementById("a").style = "color:red";
 
 }})
